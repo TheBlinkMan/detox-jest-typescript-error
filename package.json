@@ -5,7 +5,7 @@
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
-    "tsc": "tsc index.ts --lib ES2015"
+    "tsc": "tsc index.ts --lib ES2015 -noEmit"
   },
   "devDependencies": {
     "@types/detox": "^9.0.4",

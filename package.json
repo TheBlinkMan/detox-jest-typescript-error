@@ -1,0 +1,7 @@
+{
+  "name": "detox-jest-typescript-error",
+  "version": "1.0.0",
+  "description": "Show detox jest error",
+  "main": "index.ts",
+  "license": "MIT"
+}
